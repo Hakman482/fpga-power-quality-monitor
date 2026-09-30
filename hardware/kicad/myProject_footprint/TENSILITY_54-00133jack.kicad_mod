@@ -1,0 +1,364 @@
+(footprint "TENSILITY_54-00133jack"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "J1"
+		(at 6.477 4.2125 0)
+		(layer "F.SilkS")
+		(uuid "156a06e9-b14f-4d51-b9e8-dc619b67d224")
+		(effects
+			(font
+				(size 1 0.6)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "54-00133(barrel)"
+		(at 5.235 -21.225 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "67db17f7-35e7-4cb0-9bc4-f00d42fd2809")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "75545d39-391a-45f5-94a6-fd16a1542af0")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2544fa68-ae62-446c-8195-7286ec8e9058")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MF" "Tensility International Corp"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d175a8e0-6129-4b86-ac13-91dc921c49a3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MAXIMUM_PACKAGE_HEIGHT" "10.8mm"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5448c5e4-9cb0-424d-b410-171ad8769844")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5180d4f7-b5bd-4d46-b62b-a8c9c503f67b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ccfe6a46-4857-496d-bb5b-18454401af0a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Check_prices" "https://www.snapeda.com/parts/54-00133/Tensility/view-part/?ref=eda"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "176a2522-a3b5-4451-8eb4-63a7400f0d8f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "STANDARD" "Manufacturer Recommendations"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6ceeced2-389f-4116-86a8-eb38f2caf149")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PARTREV" "A"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1b7f3ea5-156a-43b6-b4bb-5c6c736c8fa8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SnapEDA_Link" "https://www.snapeda.com/parts/54-00133/Tensility/view-part/?ref=snap"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "38d3e515-94c0-42af-8965-fe29fc2a9147")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MP" "54-00133"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c0458520-8b22-4ca6-abb2-05a35fcbc5dd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description_1" "Connector, dc jack 5.5x2.1 mm, PCB mount, 90 degrees, silver plated, thru hole"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2c130098-b4ca-4617-bb6e-66531ca09969")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MANUFACTURER" "TENSILITY"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c6f60de1-f748-4b0e-93fa-be580b511815")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Availability" "In Stock"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2ad0e739-4286-46f4-8a51-b525ce9d43b7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SNAPEDA_PN" "54-00133"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "37b56c87-45e8-4f06-8fca-f056727b8160")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_circle
+		(center 0 -7.25)
+		(end 0.1 -7.25)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "d55b727f-108b-4dfc-a0c6-e0952728222f")
+	)
+	(fp_line
+		(start -4.75 -6.95)
+		(end -4.75 7.95)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "9284e28c-993e-4b62-a6f3-93819c1b32da")
+	)
+	(fp_line
+		(start -4.75 7.95)
+		(end 5.604 7.95)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "1c75aeef-6dfe-4d18-9cb6-ffbc80a94f71")
+	)
+	(fp_line
+		(start 5.604 -6.95)
+		(end -4.75 -6.95)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "c620ca03-21ec-434f-821c-c3fcb8f77ecd")
+	)
+	(fp_line
+		(start 5.604 7.95)
+		(end 5.604 -6.95)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b8c5f0b0-19e2-45b1-a2fb-9329e8ad7d3b")
+	)
+	(fp_line
+		(start -4.5 -6.7)
+		(end 4.5 -6.7)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9f24542c-3183-4c12-9b79-2b3984238d27")
+	)
+	(fp_line
+		(start -4.5 7.7)
+		(end -4.5 -6.7)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0e0c88d0-e268-4e35-a1c8-91eeb274d8d2")
+	)
+	(fp_line
+		(start 4.5 -6.7)
+		(end 4.5 7.7)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6ace7733-d543-4a39-96df-0a34aac892b8")
+	)
+	(fp_line
+		(start 4.5 7.7)
+		(end -4.5 7.7)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "00c4a71f-0678-4a82-9338-b8334738f1f3")
+	)
+	(fp_circle
+		(center 0 -7.25)
+		(end 0.1 -7.25)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "fe1dbafe-603a-4fe6-945a-c5b6806b04fa")
+	)
+	(pad "A" thru_hole oval
+		(at 0 -5.9)
+		(size 2.616 1.308)
+		(drill oval 1.5 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "6eb4a8bf-9f7c-4138-a6af-3df511a86a2a")
+	)
+	(pad "B" thru_hole oval
+		(at 0 0)
+		(size 2.616 1.308)
+		(drill oval 1.5 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "f952770a-6afa-4711-ad08-c77c4437d901")
+	)
+	(pad "C" thru_hole oval
+		(at 4.7 -3.1)
+		(size 1.308 2.616)
+		(drill oval 0.8 1.5)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "0b0e2c58-0a3b-43dd-85b1-e15a448a8e64")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/myProject_models/54-00133jack.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
+)
