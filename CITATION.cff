@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "If you use this project in academic work, please cite the project and its author."
+title: "FPGA-Based Single-Phase Power Quality Monitoring System"
+type: software
+authors:
+  - family-names: "Issah"
+    given-names: "Hakeem"
+year: 2026
