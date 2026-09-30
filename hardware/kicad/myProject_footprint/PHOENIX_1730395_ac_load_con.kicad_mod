@@ -1,0 +1,369 @@
+(footprint "PHOENIX_1730395_ac_load_con"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "J6"
+		(at -1.21 -8.5 90)
+		(layer "F.SilkS")
+		(uuid "49690169-a6a8-4ba3-8d24-dd2f84f34276")
+		(effects
+			(font
+				(size 1 0.6)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "1730395(ac_input)"
+		(at 9.525 -12.885 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "83cfa9ca-9502-43d2-a1e0-da1cfe96cf83")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8fa6e5cc-6fc4-4b42-b4cd-bb6828813881")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a8134d1e-766b-456d-abda-54a0ba28d008")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MF" "Phoenix Contact"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "34a092a1-39db-4638-b0e7-c3b82b19d6db")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MAXIMUM_PACKAGE_HEIGHT" "18.2mm"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0c77fbb6-919e-4943-be87-cba7fbc1b707")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1b66bfe4-bc4b-4754-84dc-7dc58260a78a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8ac6d87c-97ea-4c5c-866f-71ec7702be95")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Check_prices" "https://www.snapeda.com/parts/1730395/Phoenix+Contact/view-part/?ref=eda"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f17668db-acf9-47a6-982b-bca2d3f5a6e0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "STANDARD" "Manufacturer Recommendations"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "08780835-6cf3-4b40-82e4-90e5a132c86b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PARTREV" "04.10.2022"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "78f1abee-8987-4d65-adf0-aec02194b65c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SnapEDA_Link" "https://www.snapeda.com/parts/1730395/Phoenix+Contact/view-part/?ref=snap"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "92a1a4ab-a615-4ba6-98bc-05e2b2f21d21")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MP" "1730395"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d4c1e668-0394-410b-85b1-0308b56641aa")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=2779888&manufacturer=Phoenix Contact&part_name=1730395&search_term=terminalblock_phoenix_mkds 1,5/2-5.08"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "02b39188-7240-46af-b817-7c8f6dacdd92")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description_1" "Phoenix Contact 1730395 MKDS 2,5/ 2-5,08"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "360b9803-b3b0-4fba-bacc-49902a449058")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Availability" "In Stock"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "22766fc5-eca2-4c50-b9ff-6adde450c715")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MANUFACTURER" "Phoenix Contact"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "665711be-e0a9-4dcd-8266-efb4b38669d0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_circle
+		(center -0.5 -6)
+		(end -0.4 -6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "7389e0f1-06e2-4d49-a095-6cffc76a050a")
+	)
+	(fp_line
+		(start -0.25 -12.17)
+		(end 11.59 -12.17)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "11b2342c-8d7c-46d0-bcf9-6fd8fa235cf3")
+	)
+	(fp_line
+		(start -0.25 0.25)
+		(end -0.25 -12.17)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "9b4a722c-dda1-48f1-839d-27c6dd29a584")
+	)
+	(fp_line
+		(start 11.59 -12.17)
+		(end 11.59 0.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "74c0f71c-179a-4de9-86c9-6ad8b54a6319")
+	)
+	(fp_line
+		(start 11.59 0.25)
+		(end -0.25 0.25)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ca1b455d-e5dc-4384-aff5-c10757d77039")
+	)
+	(fp_line
+		(start 0 -11.92)
+		(end 11.34 -11.92)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "c22e87cd-d266-4e99-ac89-185bfa4a1ee4")
+	)
+	(fp_line
+		(start 0 0)
+		(end 0 -11.92)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "aba24200-5d1c-4375-9b72-67abbd4a8aee")
+	)
+	(fp_line
+		(start 11.34 -11.92)
+		(end 11.34 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b052620a-7d1b-4304-be1f-069cd0bb6994")
+	)
+	(fp_line
+		(start 11.34 0)
+		(end 0 0)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9de24762-2940-406d-92e8-1a5ce16b867b")
+	)
+	(fp_circle
+		(center -0.5 -6)
+		(end -0.4 -6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "8eb6cba7-ad52-45f8-ad07-4d334e76b13e")
+	)
+	(pad "" np_thru_hole circle
+		(at 1.33 -10.3)
+		(size 1.8 1.8)
+		(drill 1.8)
+		(layers "*.Cu" "*.Mask")
+		(uuid "bd63d51b-69af-4c6f-afa4-316c1f89a9e9")
+	)
+	(pad "" np_thru_hole circle
+		(at 9.94 -10.3)
+		(size 1.8 1.8)
+		(drill 1.8)
+		(layers "*.Cu" "*.Mask")
+		(uuid "64e267ae-068e-47b7-8341-177fa79a9e3c")
+	)
+	(pad "1" thru_hole rect
+		(at 3.13 -6)
+		(size 2.1 2.1)
+		(drill 1.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "a35dc0eb-aaa9-42ef-8202-fdaef29811dd")
+	)
+	(pad "2" thru_hole circle
+		(at 8.21 -6)
+		(size 2.1 2.1)
+		(drill 1.4)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "9fef689c-c7c5-4def-b315-289fa4e2cdbe")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/myProject_models/1730395_AC_LOAD_con.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

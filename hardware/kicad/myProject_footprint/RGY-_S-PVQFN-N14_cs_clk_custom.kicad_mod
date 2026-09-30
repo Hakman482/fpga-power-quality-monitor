@@ -1,0 +1,274 @@
+(footprint "RGY-_S-PVQFN-N14_cs_clk_custom"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "RGY-(S-PVQFN-N14)")
+	(tags "Integrated Circuit")
+	(property "Reference" "IC6"
+		(at -3.4 -2.525 0)
+		(layer "F.SilkS")
+		(uuid "535a5501-d9c1-478d-91a3-7aa05f0f3b47")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "SN74AHCT125RGYR"
+		(at 1.493 3.396 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "e32401d2-ff9f-4578-8825-147581611ed7")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" "http://www.ti.com/lit/ds/symlink/sn74ahct125.pdf"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0020b0a2-4eed-493a-bba2-6533f0d43fa6")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Texas Instruments SN74AHCT125RGYR, Quad Bus Buffer, 10 ns@ 50 pF 8mA, 4.5  5.5 V, 14-Pin VQFN"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ce3563ad-0bf3-41c7-a6d1-b35eadf797c9")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Height" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c47c91a4-f1c8-4402-88be-f0539e4e2e0f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "595-SN74AHCT125RGYR"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b58ad46e-bca0-4767-bbf4-17d699d0ba2f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN74AHCT125RGYR?qs=WzgTT80quPG58uovxcQWdQ%3D%3D"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "50d1f30e-60e4-41b9-b69c-d115a9d6866b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "Texas Instruments"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d2a18a25-c278-4463-bb95-667146346c69")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "SN74AHCT125RGYR"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d115b5fc-e0a4-4e6a-9926-24224806a824")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.75 -1.75)
+		(end 1.75 -1.75)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6d7e96b0-d0e0-4fbc-abc5-ba662b371909")
+	)
+	(fp_line
+		(start -1.75 1.75)
+		(end -1.75 -1.75)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1d6ed7dc-ddf7-45d2-9ba1-87964fced8f0")
+	)
+	(fp_line
+		(start 1.75 -1.75)
+		(end 1.75 1.75)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d04d8177-1961-4b14-9bc6-5d7cbdb39719")
+	)
+	(fp_line
+		(start 1.75 1.75)
+		(end -1.75 1.75)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "917619f4-8191-4cbf-88e8-8ab65bd8bb98")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 1.493 3.396 0)
+		(layer "F.Fab")
+		(uuid "21b60afc-c166-4ec9-af14-6937b9509241")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.725 0.75 90)
+		(size 0.28 0.85)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "2bc7529c-2254-4136-9766-ad60d1805beb")
+	)
+	(pad "2" smd rect
+		(at -1 1.725)
+		(size 0.28 0.85)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "4ec88026-1a22-4a2c-b05a-f9c2c5ed7812")
+	)
+	(pad "3" smd rect
+		(at -0.5 1.725)
+		(size 0.28 0.85)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "ed7e9b67-2622-4be0-9566-a47c93b7e0c6")
+	)
+	(pad "4" smd rect
+		(at 0 1.725)
+		(size 0.28 0.85)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "2881bdeb-0e45-4990-9577-318dcc4fdc6d")
+	)
+	(pad "5" smd rect
+		(at 0.5 1.725)
+		(size 0.28 0.85)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "c8c2bf4e-9b94-4cb7-972b-3132dc091c94")
+	)
+	(pad "6" smd rect
+		(at 1 1.725)
+		(size 0.28 0.85)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "62a426da-e593-4233-a342-9e20f508dac4")
+	)
+	(pad "7" smd rect
+		(at 1.725 0.75 90)
+		(size 0.28 0.85)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "a393915d-2b8e-4773-b06f-ec1c4f4a6691")
+	)
+	(pad "8" smd rect
+		(at 1.725 -0.75 90)
+		(size 0.28 0.85)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "e0080c96-3ab3-4ea4-ac4c-e3d114d05bfb")
+	)
+	(pad "9" smd rect
+		(at 1 -1.725)
+		(size 0.28 0.85)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "6ddef5a4-86e9-4274-9e10-482822a5c356")
+	)
+	(pad "10" smd rect
+		(at 0.5 -1.725)
+		(size 0.28 0.85)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "c8bfdbd7-5307-42e1-be17-e8a4b82645e4")
+	)
+	(pad "11" smd rect
+		(at 0 -1.725)
+		(size 0.28 0.85)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "54edf8b3-ed24-4c1b-a912-8ac2865b0776")
+	)
+	(pad "12" smd rect
+		(at -0.5 -1.725)
+		(size 0.28 0.85)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "b2d41e8e-84ee-4444-852b-8d420f46abbb")
+	)
+	(pad "13" smd rect
+		(at -1 -1.725)
+		(size 0.28 0.85)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "6ac1094a-e61c-4e28-ae39-9fa70668f918")
+	)
+	(pad "14" smd rect
+		(at -1.725 -0.75 90)
+		(size 0.28 0.85)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "d836be52-dee3-4f2a-aa12-39c9eb37c6b2")
+	)
+	(pad "15" smd rect
+		(at 0 0 90)
+		(size 2.05 2.05)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "39011ee7-9add-4c3d-9938-9dceb3b60ef4")
+	)
+	(embedded_fonts no)
+	(model "SN74AHCT125RGYR.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 -90)
+		)
+	)
+)
