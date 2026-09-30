@@ -2,7 +2,7 @@
 
 Raw measurement captures used during the final project validation.
 
-The source CSV files are intentionally preserved rather than overwritten by cleaned/processed versions.
+The source captures are preserved rather than overwritten by cleaned or processed versions.
 
 ## CSV schema
 
@@ -26,7 +26,15 @@ scaled_current_a
 
 `voltage/zero_input/` contains additional no-signal recordings.
 
-The lab setup did not provide a variable mains AC source or power amplifier, so these results validate the low-voltage response of the implemented chain rather than a full standards-grade mains calibration.
+The laboratory setup did not provide a variable mains AC source or power amplifier, so these results validate the low-voltage response of the implemented chain rather than a full standards-grade mains calibration.
+
+The larger calibration capture is stored losslessly as:
+
+```text
+voltage/raw/raw_adc_cali_10pp.csv.gz
+```
+
+Decompress it with `gzip -dk` before running scripts that expect a plain CSV.
 
 ## Current data
 
@@ -34,20 +42,28 @@ The lab setup did not provide a variable mains AC source or power amplifier, so 
 
 Reference points used during the final test sequence were approximately:
 
-| File | Ammeter reference |
+| Repository file | Ammeter reference |
 |---|---:|
 | `raw_adc_I_zero_A.csv` | ~0 A |
-| `raw_adc_0.05A.csv` | 0.051 A |
+| `raw_adc_0.05A.csv.gz` | 0.051 A |
 | `raw_adc_0.10A.csv` | 0.100 A |
 | `raw_adc_0.15A.csv` | 0.151 A |
-| `raw_adc_0.2A.csv` | 0.200 A |
-| `raw_adc_0.25A.csv` | 0.251 A |
+| `raw_adc_0.2A.csv.gz` | 0.200 A |
+| `raw_adc_0.25A.csv.gz` | 0.251 A |
 | `raw_adc_0.3A.csv` | 0.300 A |
 | `raw_adc_20260917_0.35A.csv` | 0.358 A |
 | `raw_adc_0.4A.csv` | 0.403 A |
 | `raw_adc_0.45A.csv` | 0.459 A |
 
 Testing stopped at the highest point because of resistive-load heating.
+
+The `.gz` files are ordinary gzip-compressed CSV files. Compression is lossless and used only for the captures that were too large for the repository-transfer path used during publication.
+
+Example:
+
+```bash
+gzip -dk current/raw/raw_adc_0.25A.csv.gz
+```
 
 ## Data cleaning rule
 
@@ -57,7 +73,7 @@ For statistical summaries/plots, isolated exact ADC codes such as `24576` and `4
 
 ## Quick summary script
 
-Run:
+For an uncompressed capture:
 
 ```bash
 python analysis/summarize_adc_csv.py current/raw/raw_adc_0.10A.csv --channel current
