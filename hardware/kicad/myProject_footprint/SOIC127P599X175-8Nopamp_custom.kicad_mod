@@ -1,0 +1,349 @@
+(footprint "SOIC127P599X175-8Nopamp_custom"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "U1"
+		(at 0.5 3.55 0)
+		(layer "F.SilkS")
+		(uuid "5982ed6f-5c99-45e9-b795-950a06108dc0")
+		(effects
+			(font
+				(size 1 0.6)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "OPA2188AID"
+		(at 7.87 3.537 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c42fc690-8485-4504-8222-15f913ab0d5a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d6942b54-b566-4837-b255-5682cb2c5e5b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a6e582f5-a2f5-48b3-9286-5c7b5cdaf59f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MF" "Texas Instruments"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d3e06826-bf17-4b6b-9bc0-d5f4414b8436")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description_1" "0.03µV/°C, 6µV Vos, Low Noise, Rail-to-Rail Output, 36V Zero-Drift Operational Amplifier"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "05b9f0cf-c8f3-49f9-9ae1-d34b57c0622d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" "SOIC-8 Texas Instruments"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b763cb27-6d9d-4b62-aa3e-a125255ffcab")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "652bf4d6-a6dc-4bc2-b58f-f59c064c6165")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SnapEDA_Link" "https://www.snapeda.com/parts/OPA2188AID/Texas+Instruments/view-part/?ref=snap"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7f964ded-a116-44fe-a86b-86766e2c4ecf")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MP" "OPA2188AID"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "252f8681-bc4d-4a58-b336-8ca7c3838337")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=470210&manufacturer=Texas Instruments&part_name=OPA2188AID&search_term=opa2188"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b20aea87-b1e3-42ce-9e51-79d333dc7702")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Availability" "In Stock"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7530e08d-bfb4-4466-838a-6bf878b92f28")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Check_prices" "https://www.snapeda.com/parts/OPA2188AID/Texas+Instruments/view-part/?ref=eda"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "161d8cc8-4efa-438d-9f3f-0113cd7c8846")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_circle
+		(center -0.9 -3.5)
+		(end -0.8 -3.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "a1054e14-993b-4589-91d4-3b583f56caf8")
+	)
+	(fp_line
+		(start -3.705 -2.7025)
+		(end -3.705 2.7025)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "99853837-d605-4928-acc2-fad112b20c0b")
+	)
+	(fp_line
+		(start -3.705 -2.7025)
+		(end 3.705 -2.7025)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "3c699e46-af88-4a95-8732-c4ee5daac165")
+	)
+	(fp_line
+		(start -3.705 2.7025)
+		(end 3.705 2.7025)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e8bc7785-a2fc-4ee7-b45c-59719d92329f")
+	)
+	(fp_line
+		(start 3.705 -2.7025)
+		(end 3.705 2.7025)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ff1bf47c-341e-46ce-ade1-b76cbf8e4162")
+	)
+	(fp_line
+		(start -1.95 -2.4525)
+		(end -1.95 2.4525)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "76688059-1d93-4173-8d90-38beedf2c234")
+	)
+	(fp_line
+		(start -1.95 -2.4525)
+		(end 1.95 -2.4525)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "9ffbe90e-53f5-4305-aed7-ddf0de576649")
+	)
+	(fp_line
+		(start -1.95 2.4525)
+		(end 1.95 2.4525)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8146303c-654c-495f-a12d-6f76f084c481")
+	)
+	(fp_line
+		(start 1.95 -2.4525)
+		(end 1.95 2.4525)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b1a505ed-3229-4b67-b024-74bc64dad69b")
+	)
+	(fp_circle
+		(center -4.04 -2.305)
+		(end -3.94 -2.305)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "dc7f55ea-febc-4219-8b59-732c300baa96")
+	)
+	(pad "1" smd roundrect
+		(at -2.7 -1.905)
+		(size 1.55 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.125)
+		(solder_mask_margin 0.102)
+		(uuid "d68d7c4e-ff99-4247-936c-28b4830ca04d")
+	)
+	(pad "2" smd roundrect
+		(at -2.7 -0.635)
+		(size 1.55 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.125)
+		(solder_mask_margin 0.102)
+		(uuid "a12c4e2a-eb5a-4085-9291-c66365a79c5a")
+	)
+	(pad "3" smd roundrect
+		(at -2.7 0.635)
+		(size 1.55 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.125)
+		(solder_mask_margin 0.102)
+		(uuid "18123b62-d64d-48d2-b242-c4140a66a8d0")
+	)
+	(pad "4" smd roundrect
+		(at -2.7 1.905)
+		(size 1.55 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.125)
+		(solder_mask_margin 0.102)
+		(uuid "a9715011-be18-4e1f-bd58-9e498b9a3ba1")
+	)
+	(pad "5" smd roundrect
+		(at 2.7 1.905)
+		(size 1.55 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.125)
+		(solder_mask_margin 0.102)
+		(uuid "9bfb1286-079e-4f48-9e49-99b3a5206b95")
+	)
+	(pad "6" smd roundrect
+		(at 2.7 0.635)
+		(size 1.55 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.125)
+		(solder_mask_margin 0.102)
+		(uuid "34abeabe-5eb4-41f9-af76-7602f0cde479")
+	)
+	(pad "7" smd roundrect
+		(at 2.7 -0.635)
+		(size 1.55 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.125)
+		(solder_mask_margin 0.102)
+		(uuid "cbd89350-f05f-4eed-8b2f-c4852c82690d")
+	)
+	(pad "8" smd roundrect
+		(at 2.7 -1.905)
+		(size 1.55 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.125)
+		(solder_mask_margin 0.102)
+		(uuid "2099906c-4a16-4468-a406-df475f63e041")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/myProject_models/OPA2188AIDopamp.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
+)
