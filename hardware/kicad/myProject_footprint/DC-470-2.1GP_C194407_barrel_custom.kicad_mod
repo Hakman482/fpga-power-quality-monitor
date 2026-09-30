@@ -1,0 +1,274 @@
+(footprint "DC-470-2.1GP_C194407_barrel_custom"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "GANGYUAN DC-470-2.1GP / C194407 right-angle 2.1mm DC jack. Manufacturer PCB slots 3x 1.0x3.0mm; pin centers reconstructed from datasheet.")
+	(tags "DC jack barrel 2.1mm right angle through-hole C194407")
+	(property "Reference" "J5"
+		(at -6.7 -5.8 0)
+		(layer "F.SilkS")
+		(uuid "89919bd5-1f0b-4af4-b5e3-8562a854d4c2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "XDJK-0051-025_barrel"
+		(at -6.7 7.5 0)
+		(layer "F.Fab")
+		(uuid "02b8b9d8-aaeb-4a61-9d83-0c126b6c40bc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b57854ac-1507-4555-ad6c-263991e5f47c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fdfb616f-983f-49ae-babf-6d7fcb89a642")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MF" "Tensility International Corp"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "51132ff3-2c0c-42b3-be18-69c30a810db8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MAXIMUM_PACKAGE_HEIGHT" "10.8mm"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "73df0184-0d97-40ef-bb7e-4d8b6754e74e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "572e0b9f-5d60-4fe4-80ab-56a1bd095743")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "785d2df2-8f66-4577-a7e7-bd9431efcacb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Check_prices" "https://www.snapeda.com/parts/54-00133/Tensility/view-part/?ref=eda"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f4c77de7-de08-4fb1-aa4b-c767bea7bf2e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "STANDARD" "Manufacturer Recommendations"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "298b47b3-3ef7-4d2d-929d-b49ea78cfd46")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PARTREV" "A"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a4c14c8e-11bf-4c05-bd9f-418faa92e1d9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SnapEDA_Link" "https://www.snapeda.com/parts/54-00133/Tensility/view-part/?ref=snap"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ac8f84b3-9345-4ef5-bb21-96692d2e27da")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MP" "54-00133"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "017416f3-3fbd-416d-9ca5-fc0764ed96a2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description_1" "Connector, dc jack 5.5x2.1 mm, PCB mount, 90 degrees, silver plated, thru hole"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fca85051-0d8e-4eaa-919a-92739e6c7bca")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MANUFACTURER" "TENSILITY"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9b996df0-f4de-462b-80d9-581aff902a3b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Availability" "In Stock"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c988cf2e-34e4-40bc-9d81-ec0828cab38a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SNAPEDA_PN" "54-00133"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "98244fef-a374-4835-bde6-42c8e4dd37f8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_rect
+		(start -14.2 -4.95)
+		(end 0.8 6.65)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "37f0eafe-cd00-4d40-9fd8-c177eda37d74")
+	)
+	(fp_rect
+		(start -13.7 -4.45)
+		(end 0.3 4.45)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "da4faecd-a39c-4a86-ad5c-2c1bbbf8dc26")
+	)
+	(pad "1" thru_hole roundrect
+		(at 0 0)
+		(size 1.8 3.8)
+		(drill oval 1 3)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.25)
+		(uuid "16764196-7572-47cb-8182-14f6a0f5aa89")
+	)
+	(pad "2" thru_hole roundrect
+		(at -6.2 0)
+		(size 1.8 3.8)
+		(drill oval 1 3)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.25)
+		(uuid "2558f6d2-ed00-4e61-a4be-f53e587f1ae4")
+	)
+	(pad "3" thru_hole roundrect
+		(at -3 4.7 90)
+		(size 1.8 3.8)
+		(drill oval 1 3)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(roundrect_rratio 0.25)
+		(uuid "cd407a7d-80e2-4f65-a4c6-59e59fde1523")
+	)
+	(embedded_fonts no)
+)

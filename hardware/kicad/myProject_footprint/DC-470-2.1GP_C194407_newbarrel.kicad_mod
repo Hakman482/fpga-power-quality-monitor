@@ -1,0 +1,105 @@
+(footprint "DC-470-2.1GP_C194407"
+  (version 20240108)
+  (generator "pcbnew")
+  (layer "F.Cu")
+  (descr "GANGYUAN DC-470-2.1GP / C194407 right-angle 2.1mm DC jack. Manufacturer PCB slots 3x 1.0x3.0mm; pin centers reconstructed from datasheet.")
+  (tags "DC jack barrel 2.1mm right angle through-hole C194407")
+  (attr through_hole)
+
+  (fp_rect
+    (start -13.7 -4.45)
+    (end 0.3 4.45)
+    (stroke (width 0.20) (type default))
+    (fill none)
+    (layer "F.Fab")
+  )
+
+  (fp_line
+    (start -13.7 -4.45)
+    (end 0.3 -4.45)
+    (stroke (width 0.25) (type default))
+    (layer "F.SilkS")
+  )
+  (fp_line
+    (start 0.3 -4.45)
+    (end 0.3 -2.2)
+    (stroke (width 0.25) (type default))
+    (layer "F.SilkS")
+  )
+  (fp_line
+    (start 0.3 2.2)
+    (end 0.3 4.45)
+    (stroke (width 0.25) (type default))
+    (layer "F.SilkS")
+  )
+  (fp_line
+    (start 0.3 4.45)
+    (end -1.0 4.45)
+    (stroke (width 0.25) (type default))
+    (layer "F.SilkS")
+  )
+  (fp_line
+    (start -5.0 4.45)
+    (end -13.7 4.45)
+    (stroke (width 0.25) (type default))
+    (layer "F.SilkS")
+  )
+  (fp_line
+    (start -13.7 4.45)
+    (end -13.7 -4.45)
+    (stroke (width 0.25) (type default))
+    (layer "F.SilkS")
+  )
+
+  (fp_rect
+    (start -14.2 -4.95)
+    (end 0.8 6.65)
+    (stroke (width 0.05) (type default))
+    (fill none)
+    (layer "F.CrtYd")
+  )
+
+  (fp_text reference "J5"
+    (at -6.7 -5.8 0)
+    (layer "F.SilkS")
+    (effects (font (size 1.0 1.0) (thickness 0.15)))
+  )
+
+  (fp_text value "DC-470-2.1GP"
+    (at -6.7 7.5 0)
+    (layer "F.Fab")
+    (effects (font (size 1.0 1.0) (thickness 0.15)))
+  )
+
+  (fp_circle
+    (center 0 -3.65)
+    (end 0.35 -3.65)
+    (stroke (width 0.20) (type default))
+    (fill none)
+    (layer "F.SilkS")
+  )
+
+  (pad "1" thru_hole roundrect
+    (at 0 0)
+    (size 1.8 3.8)
+    (drill oval 1.0 3.0)
+    (layers "*.Cu" "*.Mask")
+    (roundrect_rratio 0.25)
+  )
+
+  (pad "2" thru_hole roundrect
+    (at -6.2 0)
+    (size 1.8 3.8)
+    (drill oval 1.0 3.0)
+    (layers "*.Cu" "*.Mask")
+    (roundrect_rratio 0.25)
+  )
+
+  (pad "3" thru_hole roundrect
+    (at -3.0 4.7 90)
+    (size 1.8 3.8)
+    (drill oval 1.0 3.0)
+    (layers "*.Cu" "*.Mask")
+    (roundrect_rratio 0.25)
+  )
+)
