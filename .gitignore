@@ -1,0 +1,40 @@
+# Vivado generated files
+.Xil/
+*.cache/
+*.runs/
+*.sim/
+*.hw/
+*.gen/
+*.ip_user_files/
+*.jou
+*.log
+*.pb
+*.dcp
+*.wdf
+*.vdi
+*.rpx
+*.bit
+*.ltx
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+
+# KiCad generated/temporary files
+*-backups/
+*.lck
+*.kicad_prl
+_autosave-*
+*~ 
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
