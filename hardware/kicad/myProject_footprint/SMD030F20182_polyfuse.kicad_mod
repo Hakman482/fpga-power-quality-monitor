@@ -1,0 +1,278 @@
+(footprint "SMD030F20182_polyfuse"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "SMD030F-2018-2")
+	(tags "Fuse")
+	(property "Reference" "F1"
+		(at -4.85 -2.95 0)
+		(layer "F.SilkS")
+		(uuid "67ecfb41-ba9e-4ba5-8132-bfb6a743d247")
+		(effects
+			(font
+				(size 1 0.6)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SMD100F-2018-2"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "a47580a6-352b-4192-8dde-cd2fa6d858d7")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.littelfuse.com/~/media/electronics/datasheets/resettable_ptcs/littelfuse_ptc_midsmd_datasheet.pdf.pdf"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5ad3da94-70ff-4169-bbd3-94dd22a9b300")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Resettable Fuses - PPTC 1.1A 15V 40A Imax"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "96a14456-da7c-4b79-9c41-faa5489d5e07")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Height" "1.78"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6b21e1b3-0d10-4989-8851-c01cc5a5b63a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "650-SMD100F-2018-2"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c5479d51-aa5d-4db2-9d04-c58a6c899275")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Littelfuse/SMD100F-2018-2?qs=hv6pn79dJPQRIkziOAh85w%3D%3D"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "232d6c5f-5e2c-4c01-a658-40ae2c8d42f6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "LITTELFUSE"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "127755c0-4297-42c5-8e5c-24916873fefe")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "SMD100F-2018-2"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ff5a0998-eb72-4df9-af61-7f994318a856")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -3.7 -0.1)
+		(end -3.7 -0.1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0231eb65-411b-4864-ba08-d1f5c2e09720")
+	)
+	(fp_line
+		(start -3.7 0.1)
+		(end -3.7 0.1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "7356d00b-c145-44eb-996d-3359de3b587d")
+	)
+	(fp_arc
+		(start -3.7 -0.1)
+		(mid -3.6 0)
+		(end -3.7 0.1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "9e91f2b3-e321-489f-8bf6-d9dacd390ead")
+	)
+	(fp_arc
+		(start -3.7 0.1)
+		(mid -3.8 0)
+		(end -3.7 -0.1)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1fb5763e-4843-49e6-9b95-f1c901506175")
+	)
+	(fp_line
+		(start -4.2 -3.3)
+		(end 4.2 -3.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f603c52b-25a8-406c-85c8-e02feb7f6886")
+	)
+	(fp_line
+		(start -4.2 3.3)
+		(end -4.2 -3.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f4a0518d-bfbc-47a8-844a-0b0e0757b2a0")
+	)
+	(fp_line
+		(start 4.2 -3.3)
+		(end 4.2 3.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "878f5c8e-e5a7-4b18-b81f-bf039f2e046e")
+	)
+	(fp_line
+		(start 4.2 3.3)
+		(end -4.2 3.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "124ba5b7-c71a-4904-b231-68acce77eeab")
+	)
+	(fp_line
+		(start -2.54 -2.277)
+		(end 2.54 -2.277)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "3c24a467-e9ae-43b6-bcaa-4aa60b74b26d")
+	)
+	(fp_line
+		(start -2.54 2.277)
+		(end -2.54 -2.277)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5bb273b7-c9a7-4641-87d4-9d7d2118bf9e")
+	)
+	(fp_line
+		(start 2.54 -2.277)
+		(end 2.54 2.277)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "fbddc573-ec18-45d6-8e47-736769058721")
+	)
+	(fp_line
+		(start 2.54 2.277)
+		(end -2.54 2.277)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "34d07a43-92bc-435d-b6dc-baed6c5d196e")
+	)
+	(pad "1" smd rect
+		(at -2.45 0)
+		(size 1.5 4.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "4fa5363d-7bcf-4c9d-ad94-9345f348a95c")
+	)
+	(pad "2" smd rect
+		(at 2.45 0)
+		(size 1.5 4.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "131afce1-2cac-4172-8345-1e0f12f89f2d")
+	)
+	(embedded_fonts no)
+	(model "SMD100F-2018-2.stp"
+		(offset
+			(xyz 0 0 0.759999979)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 90 -180 0)
+		)
+	)
+	(model "${KIPRJMOD}/myProject_models/SMD100F-2018-2_polyfuse.step"
+		(offset
+			(xyz 0 0 0.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
+)

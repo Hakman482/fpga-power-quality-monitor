@@ -1,0 +1,349 @@
+(footprint "SOIC127P599X175-8Nbuck"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "U4"
+		(at 0.9 3.3 180)
+		(layer "F.SilkS")
+		(uuid "226f5af4-5dc8-497d-8a26-561e86c7d2f5")
+		(effects
+			(font
+				(size 1 0.6)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "TPS5410DR_buck"
+		(at 7.87 3.537 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "40a99d36-5d5b-4027-b0f4-ec1f6f64dc81")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "63b0277e-68d9-4718-a69e-bb83a359895b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e475ed35-2f32-4090-b791-be98a6cfa7c7")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MF" "Texas Instruments"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "68f2766a-0d7a-4012-9d16-fe64cd0c94c4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description_1" "5.5V to 36V Input, 1A, 500kHz Step Down Converter"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "02e76617-7187-4cf8-b570-fbe626de1371")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" "SOIC-8 Texas Instruments"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "37bed508-4798-4dc7-ba7c-6d9cd9d0f602")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8b5459b9-9310-4204-945e-36ef705bdffe")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SnapEDA_Link" "https://www.snapeda.com/parts/TPS5410DR/Texas+Instruments/view-part/?ref=snap"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "33724c4f-d11c-4e0d-8468-10ddab8a43ed")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MP" "TPS5410DR"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b3fb6a00-0756-43d8-a799-37df4f98903f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=1237718&manufacturer=Texas Instruments&part_name=TPS5410DR&search_term=tps5410dr"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cda10d89-b6ca-4189-bf5b-efdfbf632f66")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Availability" "In Stock"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4265780d-b503-43df-aa0a-094d1d9c2bf1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Check_prices" "https://www.snapeda.com/parts/TPS5410DR/Texas+Instruments/view-part/?ref=eda"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "087247fa-9404-4a65-b345-e26936b44444")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_circle
+		(center -4.5 -2.5)
+		(end -4.4 -2.5)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "bbf0578f-8c62-41e5-be7a-3cae9c54de4d")
+	)
+	(fp_line
+		(start -3.705 -2.7025)
+		(end -3.705 2.7025)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "6c34949c-9dc4-40ac-b980-115732f28eca")
+	)
+	(fp_line
+		(start -3.705 -2.7025)
+		(end 3.705 -2.7025)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "186e36f1-218d-492e-b45b-33ee53cc5c4f")
+	)
+	(fp_line
+		(start -3.705 2.7025)
+		(end 3.705 2.7025)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "cedbb4ae-32cf-455a-ac04-0666b85d84de")
+	)
+	(fp_line
+		(start 3.705 -2.7025)
+		(end 3.705 2.7025)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ecf7073a-d5d5-41eb-acad-f2f4a6391576")
+	)
+	(fp_line
+		(start -1.95 -2.4525)
+		(end -1.95 2.4525)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "fccd07d1-a170-4757-93a7-9733c7208db9")
+	)
+	(fp_line
+		(start -1.95 -2.4525)
+		(end 1.95 -2.4525)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e2d2f1fa-e0f3-466b-bc61-a9780b5843e6")
+	)
+	(fp_line
+		(start -1.95 2.4525)
+		(end 1.95 2.4525)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "eb0bc2b0-af75-4ea9-a8e4-a9dec08e82e2")
+	)
+	(fp_line
+		(start 1.95 -2.4525)
+		(end 1.95 2.4525)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b54d242f-83b5-4f60-a2dc-fcb2bffc1bf6")
+	)
+	(fp_circle
+		(center -4.04 -2.305)
+		(end -3.94 -2.305)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "8dd83ac3-7ff3-491f-95ab-80f511cc3cad")
+	)
+	(pad "1" smd roundrect
+		(at -2.794 -1.905)
+		(size 2.03 0.66)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.125)
+		(solder_mask_margin 0.102)
+		(uuid "033cc279-dbc1-4070-a0a6-3a3e46a289de")
+	)
+	(pad "2" smd roundrect
+		(at -2.794 -0.635)
+		(size 2.03 0.66)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.125)
+		(solder_mask_margin 0.102)
+		(uuid "3f2b8275-eb62-45c1-985a-a7b6d682be03")
+	)
+	(pad "3" smd roundrect
+		(at -2.794 0.635)
+		(size 2.03 0.66)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.125)
+		(solder_mask_margin 0.102)
+		(uuid "19d93974-f56c-4306-8f52-958c8c4ea34b")
+	)
+	(pad "4" smd roundrect
+		(at -2.794 1.905)
+		(size 2.03 0.66)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.125)
+		(solder_mask_margin 0.102)
+		(uuid "b8981b3d-76a2-4de0-949d-2e58fc8a20b7")
+	)
+	(pad "5" smd roundrect
+		(at 2.794 1.905)
+		(size 2.03 0.66)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.125)
+		(solder_mask_margin 0.102)
+		(uuid "7351a829-0463-4d19-a32b-fb9a9172485b")
+	)
+	(pad "6" smd roundrect
+		(at 2.794 0.635)
+		(size 2.03 0.66)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.125)
+		(solder_mask_margin 0.102)
+		(uuid "67334e89-5995-43c2-ae56-d8b5826e4509")
+	)
+	(pad "7" smd roundrect
+		(at 2.794 -0.635)
+		(size 2.03 0.66)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.125)
+		(solder_mask_margin 0.102)
+		(uuid "e09caa4b-793e-4380-acc7-f48aca6e3a55")
+	)
+	(pad "8" smd roundrect
+		(at 2.794 -1.905)
+		(size 2.03 0.66)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.125)
+		(solder_mask_margin 0.102)
+		(uuid "5e7f0730-3c10-4645-a494-f5d8612f6c32")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/myProject_models/TPS5410DRbuck.STEP"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
+)

@@ -1,0 +1,246 @@
+(footprint "SODFL3618X143Nschottky"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "SOD-123FL CASE 425AB Issue O")
+	(tags "Schottky Diode")
+	(property "Reference" "D2"
+		(at 3.35 -0.1 0)
+		(layer "F.SilkS")
+		(uuid "1e040ef8-cf55-40b7-8346-8c7a89406b04")
+		(effects
+			(font
+				(size 1 0.6)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SS34FA_schottky"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "365960b3-f68b-4fde-a02a-492f3020d304")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.onsemi.com/pub/Collateral/SS36FA-D.PDF"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "00369645-5daf-4945-832d-61313f064397")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "UL Flammability 94V-0 Classification; MSL 1 per J-STD-020; Low Power Loss, High Efficiency; Guard Ring for Overvoltage Protection; RoHS Compliant / Green Molding Compound; High Surge Current Capability; NRVB Prefix for Automotive and Other Applications Requiring Unique Site and Control Change Requirements; AECQ101 Qualified and PPAP Capable"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e9eb3164-0f08-43e1-be48-0598a3dbbc22")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Height" "1.43"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "67e47be1-7696-416f-a3b5-13508e44a7fd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "512-SS34FA"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0fce5462-b7e2-439b-b1f5-8f1eb14dad37")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/onsemi-Fairchild/SS34FA?qs=R26iFe%2FkX%2FK1QUwZdCmBBw%3D%3D"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "de4b3381-4285-45cf-a19f-01d9018d9016")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "onsemi"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7c607726-6283-4058-8824-e78825dcb4fc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "SS34FA"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ee513e76-cb90-4c00-bf32-c2c0485f76f2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -2.26 -1.1)
+		(end 2.26 -1.1)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "82bc1343-11c0-46cf-9e47-f54e400a4ec9")
+	)
+	(fp_line
+		(start -2.26 1.1)
+		(end -2.26 -1.1)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "fdc3163a-4a4c-48a8-ae72-a2dd5689e93d")
+	)
+	(fp_line
+		(start 2.26 -1.1)
+		(end 2.26 1.1)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f173b18e-831b-4aa0-8dbe-6aab9a4d35e7")
+	)
+	(fp_line
+		(start 2.26 1.1)
+		(end -2.26 1.1)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "3783578a-d777-4060-b3a3-aead1022881e")
+	)
+	(fp_line
+		(start -1.4 -0.9)
+		(end 1.4 -0.9)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f54270ba-45da-48fd-8720-9d6eb1dfb20a")
+	)
+	(fp_line
+		(start -1.4 -0.34)
+		(end -0.84 -0.9)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f5b03d1d-a8bf-439a-985d-79083b1c42cc")
+	)
+	(fp_line
+		(start -1.4 0.9)
+		(end -1.4 -0.9)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d29978fb-d622-4cf3-9c28-051c5965ea78")
+	)
+	(fp_line
+		(start 1.4 -0.9)
+		(end 1.4 0.9)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "99ee8db9-cc02-4c62-8ae3-eec76783cd2a")
+	)
+	(fp_line
+		(start 1.4 0.9)
+		(end -1.4 0.9)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "db1b88c5-e1b4-46ae-8cf2-5d09ae747bbf")
+	)
+	(pad "1" smd rect
+		(at -1.55 0)
+		(size 1.2 1.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "056986eb-e5a8-47be-8e6e-ae7597c07ae2")
+	)
+	(pad "2" smd rect
+		(at 1.55 0)
+		(size 1.2 1.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "455a1303-1ed8-4c7c-a031-0318558b53bd")
+	)
+	(embedded_fonts no)
+	(model "SS34FA.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+	(model "${KIPRJMOD}/myProject_models/SS34FAschottky.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
