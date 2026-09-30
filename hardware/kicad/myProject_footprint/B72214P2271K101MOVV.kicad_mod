@@ -1,0 +1,272 @@
+(footprint "B72214P2271K101MOVV"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "S14K275E2K1")
+	(tags "Varistor")
+	(property "Reference" "RV2"
+		(at 3.75 1.6 180)
+		(layer "F.SilkS")
+		(uuid "d76ac295-8f7c-4c56-a918-5172ecfbce38")
+		(effects
+			(font
+				(size 1 0.6)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "B72214P2271K101"
+		(at 3.75 1.6 180)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "1531d0b2-9f62-428c-a316-665a20c3457f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" "https://product.tdk.com/system/files/dam/doc/product/protection/voltage/lead-disk-varistor/data_sheet/70/db/var/siov_leaded_advanced_mp_14mm.pdf"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ecdf5553-09ff-45a7-a9dd-635ab9a692be")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Leaded Disk Varistors, Max. Operating Voltage [AC]=275Vrms, Max. Surge Current Imax(8/20us,1time)=6000A"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7cf2454a-31ee-4277-a81f-f260b629fe23")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Height" "20"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7088c1f2-61d0-4fe7-aa00-0c9c9cdfdfb0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "871-B72214P2271K101"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8e5c27af-25d9-4906-8720-819048dbe020")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/EPCOS-TDK/B72214P2271K101?qs=%2FTH2byoDRrKIQnTfGWGsTA%3D%3D"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "83480e87-3e0b-45a7-a6ee-e084d1b1700f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "TDK"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "03cb4ab2-6065-411b-9462-d6b6a828fbe2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "B72214P2271K101"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d5baab49-20dc-46ea-84e9-d98c1dc298fb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -1.25 4.55)
+		(end -1.25 4.55)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "faf9f3dd-7c7a-4c31-9657-6b4880bb5d2c")
+	)
+	(fp_line
+		(start -5.2 -2.35)
+		(end -5.2 5.55)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "da2650e0-816f-4f6a-8323-471049bb7eda")
+	)
+	(fp_line
+		(start -5.2 5.55)
+		(end 12.7 5.55)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "7a7f831c-7563-4d05-9f88-2e6eafc5e45d")
+	)
+	(fp_line
+		(start 12.7 -2.35)
+		(end -5.2 -2.35)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "40e48bb9-4279-4cf4-b15a-0d5f8250c4f0")
+	)
+	(fp_line
+		(start 12.7 5.55)
+		(end 12.7 -2.35)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "9e713d44-fe2c-45d4-bf3e-eaa2c8172ce1")
+	)
+	(fp_line
+		(start -1.25 -1.35)
+		(end 8.75 -1.35)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8242501a-da3b-4f14-a6ca-50cc5bf34788")
+	)
+	(fp_line
+		(start -1.25 4.55)
+		(end -1.25 4.55)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "35ff3d6a-e1e9-4179-801d-b66fba7971b0")
+	)
+	(fp_line
+		(start 8.75 -1.35)
+		(end 8.75 -1.35)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "60f969e0-ca5b-482b-9ba8-dee590064af7")
+	)
+	(fp_line
+		(start 8.75 4.55)
+		(end -1.25 4.55)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2d4c0490-5350-46c5-a177-3572b3d6e6b5")
+	)
+	(fp_arc
+		(start -1.25 4.55)
+		(mid -4.2 1.6)
+		(end -1.25 -1.35)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5ad069a4-ee93-41cb-9eea-933306587219")
+	)
+	(fp_arc
+		(start 8.75 -1.35)
+		(mid 11.7 1.6)
+		(end 8.75 4.55)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a9d31c9c-c8bf-4da4-990d-1ccb8faca709")
+	)
+	(pad "1" thru_hole rect
+		(at 0 0)
+		(size 1.5 1.5)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "cf91abb6-580b-484a-8842-34610e406151")
+	)
+	(pad "2" thru_hole circle
+		(at 7.5 3.2)
+		(size 1.5 1.5)
+		(drill 1)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "54290b62-feec-432a-b80f-e83d4fa26563")
+	)
+	(embedded_fonts no)
+	(model "B72214P2271K101.stp"
+		(offset
+			(xyz 3.749999944 -1.6 10.06000027)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
+	(model "${KIPRJMOD}/myProject_models/B72214P2271K101MOV.step"
+		(offset
+			(xyz 3.75 -1.5 9.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
+)

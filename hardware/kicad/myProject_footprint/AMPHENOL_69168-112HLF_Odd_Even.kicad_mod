@@ -1,0 +1,445 @@
+(footprint "AMPHENOL_69168-112HLF_Odd_Even"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "J4"
+		(at 8.55 -3.77 0)
+		(layer "F.SilkS")
+		(uuid "9651f7af-a3f8-4f91-81f8-82f4d71b6322")
+		(effects
+			(font
+				(size 1 0.6)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "69168-112HLF"
+		(at 5.835 4.865 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9b6ef73a-96d4-4bd1-876e-1b4ee01315df")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ff87d49d-417e-47fb-b153-f584f8358665")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6be221eb-975a-4b10-838b-e05565fab383")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MF" "FCI"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4385153d-8bec-430c-b327-20b5cffed9dd")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MAXIMUM_PACKAGE_HEIGHT" "9.80mm"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "33762b4f-84f6-4674-80fe-34637b14e4fe")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "55a8a679-92f7-4095-806f-c4a9728db13a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "066fefcf-eba6-44d8-a781-a3cf123a4ca7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Check_prices" "https://www.snapeda.com/parts/69168-112HLF/Framatome+Connectors/view-part/?ref=eda"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2f2d1603-8514-469b-bd20-89c194c490f9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "STANDARD" "IPC 7351B"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6380e854-4cd0-472c-868d-738d7b57f15a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PARTREV" "P"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7f7bc856-0604-47b2-8202-01ff4c97c861")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SnapEDA_Link" "https://www.snapeda.com/parts/69168-112HLF/Framatome+Connectors/view-part/?ref=snap"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ca0273f7-6ada-47aa-b802-e1c18000fbee")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MP" "69168-112HLF"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "85245c9e-a591-495c-95a0-125bffce5df8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=2773999&manufacturer=FCI&part_name=69168-112HLF&search_term=69168-112hlf"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "151ed7ec-bea2-4fa7-b706-3fe8289f38e1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description_1" "Connector Header Through Hole 12 position 0.100 (2.54mm)"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1b68f810-8bb5-466a-8b05-ae9478163c6f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Availability" "In Stock"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6604f491-a0ef-4fe5-b87d-baef735951ae")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MANUFACTURER" "Amphenol FCI"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d236205d-67bc-4102-9bc5-a67d7ecb9e42")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_circle
+		(center -8.25 1.27)
+		(end -8.15 1.27)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "d42cf55f-cde3-406f-957c-4a7a511f2142")
+	)
+	(fp_line
+		(start -7.87 -4.48)
+		(end 7.87 -4.48)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "9d336f4e-985c-4a52-acdb-16ede8dcac2b")
+	)
+	(fp_line
+		(start -7.87 4.1)
+		(end -7.87 -4.48)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "814bf424-0f4f-4462-a575-9b358ea54a7b")
+	)
+	(fp_line
+		(start 7.87 -4.48)
+		(end 7.87 4.1)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "defdc2eb-ca87-4870-a455-b103c01afd8a")
+	)
+	(fp_line
+		(start 7.87 4.1)
+		(end -7.87 4.1)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "90a1d858-4b71-4661-938f-567a25b5984f")
+	)
+	(fp_line
+		(start -7.62 -4.23)
+		(end 7.62 -4.23)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f0381d74-382f-4855-acae-ee7f87a23b50")
+	)
+	(fp_line
+		(start -7.62 3.85)
+		(end -7.62 -4.23)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "790f70c9-a51a-4044-ae1f-122ca215287d")
+	)
+	(fp_line
+		(start 7.62 -4.23)
+		(end 7.62 3.85)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "742770df-8253-4ef3-b379-62487da90792")
+	)
+	(fp_line
+		(start 7.62 3.85)
+		(end -7.62 3.85)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "00b1037d-a290-4c34-9e17-a9ee247c9d39")
+	)
+	(fp_circle
+		(center -8.25 1.27)
+		(end -8.15 1.27)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "5b312c1c-f182-4a0a-a3e5-c776b67fe72c")
+	)
+	(pad "A1" thru_hole rect
+		(at -6.35 1.27)
+		(size 1.59 1.59)
+		(drill 1.06)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "f9e65a1c-bac2-498e-84ae-db05aa0dff88")
+	)
+	(pad "A2" thru_hole circle
+		(at -3.81 1.27)
+		(size 1.59 1.59)
+		(drill 1.06)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "ed54509d-0708-422d-8e12-bf38fd2db39c")
+	)
+	(pad "A3" thru_hole circle
+		(at -1.27 1.27)
+		(size 1.59 1.59)
+		(drill 1.06)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "a503468a-2a09-41ff-b031-59dc3f0e0d2f")
+	)
+	(pad "A4" thru_hole circle
+		(at 1.27 1.27)
+		(size 1.59 1.59)
+		(drill 1.06)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "6e68c143-7158-4106-a367-90c5cad25772")
+	)
+	(pad "A5" thru_hole circle
+		(at 3.81 1.27)
+		(size 1.59 1.59)
+		(drill 1.06)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "f881d090-f705-4007-96cf-b82ad416f574")
+	)
+	(pad "A6" thru_hole circle
+		(at 6.35 1.27)
+		(size 1.59 1.59)
+		(drill 1.06)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "b115244e-74b7-4910-97c6-5004af817be1")
+	)
+	(pad "B1" thru_hole circle
+		(at -6.35 -1.27)
+		(size 1.59 1.59)
+		(drill 1.06)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "77a07653-6058-4bfa-8f02-5729f277e25a")
+	)
+	(pad "B2" thru_hole circle
+		(at -3.81 -1.27)
+		(size 1.59 1.59)
+		(drill 1.06)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "03c6b51c-a029-4276-8da2-a17ae1699d3d")
+	)
+	(pad "B3" thru_hole circle
+		(at -1.27 -1.27)
+		(size 1.59 1.59)
+		(drill 1.06)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "97669207-2127-477c-a704-14fffcc3344e")
+	)
+	(pad "B4" thru_hole circle
+		(at 1.27 -1.27)
+		(size 1.59 1.59)
+		(drill 1.06)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "7adb95cf-34a9-47c7-9128-976243807d68")
+	)
+	(pad "B5" thru_hole circle
+		(at 3.81 -1.27)
+		(size 1.59 1.59)
+		(drill 1.06)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "4c0418c2-d5e1-4409-8eb1-2e489405e1ef")
+	)
+	(pad "B6" thru_hole circle
+		(at 6.35 -1.27)
+		(size 1.59 1.59)
+		(drill 1.06)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "8a526b21-d84a-40eb-8802-3c713daebf50")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/myProject_models/69168-112HLF-Odd_Even.STEP"
+		(offset
+			(xyz 0 4 4.5)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
+)

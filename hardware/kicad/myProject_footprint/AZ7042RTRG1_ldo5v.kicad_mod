@@ -1,0 +1,301 @@
+(footprint "AZ7042RTRG1_ldo5v"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "SOT-89_2022")
+	(tags "Integrated Circuit")
+	(property "Reference" "IC2"
+		(at -4.25 0.3 180)
+		(layer "F.SilkS")
+		(uuid "435a31d2-5e0e-4c22-8be4-bcdddb027e36")
+		(effects
+			(font
+				(size 1 0.6)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "AP7375-50Y-13"
+		(at 0 0 180)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "010545d1-7a95-44ca-8c61-a1cba70d78e9")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.diodes.com//assets/Datasheets/AP7375.pdf"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "37950296-a7e3-4db9-b6e4-56c96b559954")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "LDO Voltage Regulators LDO CMOS LowCurr SOT89 T&R 2.5K"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "81abe8c4-f88f-4eec-8a47-5045e653e45d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Height" "1.6"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d42601b6-e080-4547-97c2-b2dec096f2f2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "621-AP7375-50Y-13"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b4cf1e92-e50e-4989-bd26-b898cfb97c32")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/AP7375-50Y-13?qs=rQFj71Wb1eXYUkoMPbsPQw%3D%3D"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "204e009c-62c7-4891-9ef6-ca6d5e5f393e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "Diodes Incorporated"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "54cd9ea7-2cba-42b4-bffc-facdd204bed5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "AP7375-50Y-13"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "39f31bee-6ca4-486a-8659-cad7712ed698")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.5 2.6)
+		(end -1.5 2.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "59d88cef-ae11-4d1a-ba63-46e5b5414f72")
+	)
+	(fp_line
+		(start -1.5 2.7)
+		(end -1.5 2.7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "ab3bebd2-0e3a-42f3-9335-36261986a000")
+	)
+	(fp_arc
+		(start -1.5 2.6)
+		(mid -1.45 2.65)
+		(end -1.5 2.7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4b00b839-cd80-41d3-bda4-18038a83b616")
+	)
+	(fp_arc
+		(start -1.5 2.7)
+		(mid -1.55 2.65)
+		(end -1.5 2.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "03e5e41b-046c-4eb5-9214-c2cb361ca13a")
+	)
+	(fp_line
+		(start -3.25 -3.265)
+		(end 3.25 -3.265)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "3f228958-3f71-4842-82be-6dd616cd01fd")
+	)
+	(fp_line
+		(start -3.25 3.265)
+		(end -3.25 -3.265)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "bbeeb2b5-cf22-4274-b2de-6615c6f5f313")
+	)
+	(fp_line
+		(start 3.25 -3.265)
+		(end 3.25 3.265)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ed71ba97-7adc-4429-ad05-b8b9bbc225a5")
+	)
+	(fp_line
+		(start 3.25 3.265)
+		(end -3.25 3.265)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "101cdcd0-81d9-40bc-8234-afcc2757a6c6")
+	)
+	(fp_line
+		(start -2.25 -1.25)
+		(end 2.25 -1.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4f2db9ec-b075-40e7-a9d6-4efa1aaf0046")
+	)
+	(fp_line
+		(start -2.25 1.25)
+		(end -2.25 -1.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b59f8932-af9c-4b31-a457-e3fa13041621")
+	)
+	(fp_line
+		(start 2.25 -1.25)
+		(end 2.25 1.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6cb33354-711a-4222-97de-2e2831bbfd85")
+	)
+	(fp_line
+		(start 2.25 1.25)
+		(end -2.25 1.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "865e7012-f019-4407-8afa-7ba162f6d211")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(uuid "7f3be1d1-fba5-4b4d-9470-64338bbbc95e")
+		(effects
+			(font
+				(size 1 0.6)
+				(thickness 0.2)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -1.5 1.4)
+		(size 0.58 1.73)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "81359d05-e7dc-4e1a-b48c-31b3e10d5290")
+	)
+	(pad "2" smd rect
+		(at 0 -0.75)
+		(size 1.933 3.03)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "f08bda13-953d-4e1b-bd99-97a1e901c314")
+	)
+	(pad "2" smd rect
+		(at 0 1.515)
+		(size 0.76 1.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "98180fb3-3d85-4787-91a7-4df532ebe5a3")
+	)
+	(pad "3" smd rect
+		(at 1.5 1.4)
+		(size 0.58 1.73)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "6db186ae-e892-402b-876d-3c6ff433527f")
+	)
+	(embedded_fonts no)
+	(model "AP7375-50Y-13.stp"
+		(offset
+			(xyz 0 0.2499999962 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+	(model "${KIPRJMOD}/myProject_models/AP7375-50Y-13_ldo5v.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
