@@ -1,0 +1,339 @@
+(footprint "DIOM4336X265N_tvs_custom"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "D3"
+		(at -1.055 -3.0625 0)
+		(layer "F.SilkS")
+		(uuid "6f331d9b-c714-493a-9ee5-abc1e2113c8f")
+		(effects
+			(font
+				(size 0.787402 0.787402)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SMBJ12A"
+		(at 2.945 3.0625 0)
+		(layer "F.Fab")
+		(uuid "de9be884-f777-4194-8396-40451cd96d59")
+		(effects
+			(font
+				(size 0.787402 0.787402)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f7921476-38e8-4038-87b3-8c80894dad12")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "509c763a-7e92-4401-a343-889900ac0854")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MF" "STMicroelectronics"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "24a2b2ca-ef13-4e32-b72c-f809537bd63a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MAXIMUM_PACKAGE_HEIGHT" "2.65 mm"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "51f9f285-52ee-4887-bc69-23be99bc3df1")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" "DO-214 STMicroelectronics"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c980af73-5487-439a-978b-caa141136e48")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2806225f-d44e-457c-8155-a72a8a2b2746")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Check_prices" "https://www.snapeda.com/parts/SMBJ12A-TR/STMicroelectronics/view-part/?ref=eda"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e2cbc9d1-b09d-4fef-8369-2d656052b46b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "STANDARD" "IPC-7351B"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "694053fb-fb18-49f7-8d92-0b76a429b2ff")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PARTREV" "F2102"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7b28e438-d07b-4d8c-9562-dcb7cde13741")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SnapEDA_Link" "https://www.snapeda.com/parts/SMBJ12A-TR/STMicroelectronics/view-part/?ref=snap"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4847c26d-1020-4c3b-86a3-a23d3ab209c9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MP" "SMBJ12A-TR"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e903499d-e78e-4866-af00-fb97304a8985")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=828911&manufacturer=STMicroelectronics&part_name=SMBJ12A-TR&search_term=smbj12a-tr"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bf40b4aa-5f4c-4cea-aedb-813066788289")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description_1" "19.9V Clamp 31A Ipp Tvs Diode Surface Mount SMB (DO-214AA)"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1eba8cb7-822a-447e-85a9-e8227e5cf704")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Availability" "In Stock"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "607630cc-75a4-4bdf-8a43-db1fcc382232")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MANUFACTURER" "Taiwan Semiconductor"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ee4e7822-816b-4e02-8d00-3bb527d645e0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_circle
+		(center -4 0)
+		(end -3.9 0)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "dc877831-409b-4727-b5ce-4c29b4e00b1a")
+	)
+	(fp_line
+		(start -3.555 -2.0625)
+		(end -3.555 2.0625)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "37a6e4cb-5626-4faa-bf8c-1a3997093307")
+	)
+	(fp_line
+		(start -3.555 2.0625)
+		(end 3.555 2.0625)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "76bbd9bc-665a-4a4e-b1e1-a9d85559c8d7")
+	)
+	(fp_line
+		(start 3.555 -2.0625)
+		(end -3.555 -2.0625)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "d1318aad-0e6b-444f-ad1b-218764f7cd31")
+	)
+	(fp_line
+		(start 3.555 2.0625)
+		(end 3.555 -2.0625)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e7b59bde-1de3-43e1-960e-8e2f86ea70cf")
+	)
+	(fp_line
+		(start -2.1625 -1.8125)
+		(end -2.1625 1.8125)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "e71acf1d-cfe4-4b60-aef6-678f3776de8c")
+	)
+	(fp_line
+		(start -2.1625 1.8125)
+		(end 2.1625 1.8125)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f046cd80-7d40-4e92-b1f3-bfae199ae80e")
+	)
+	(fp_line
+		(start 2.1625 -1.8125)
+		(end -2.1625 -1.8125)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0b274a80-653b-4901-b575-b6a9ef0a6b31")
+	)
+	(fp_line
+		(start 2.1625 1.8125)
+		(end 2.1625 -1.8125)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "71ba9f43-00b3-4c81-a11b-42c1a28952f8")
+	)
+	(fp_circle
+		(center -4 0)
+		(end -3.9 0)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "e4099a81-6f58-4631-8e96-f69b8ae89b76")
+	)
+	(pad "A" smd rect
+		(at 2.165 0)
+		(size 2.28 2.12)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "73efd275-050f-43d5-b5e1-961fcc94ca7b")
+	)
+	(pad "C" smd rect
+		(at -2.165 0)
+		(size 2.28 2.12)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(solder_mask_margin 0.102)
+		(uuid "228aa277-8adb-44f0-9fb7-936524d98b1b")
+	)
+	(embedded_fonts no)
+)
