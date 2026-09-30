@@ -1,0 +1,282 @@
+(footprint "L101011MS02Q_pswitch"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "L101011MS02Q-2")
+	(tags "Switch")
+	(property "Reference" "S1"
+		(at 4.6 2.855 0)
+		(layer "F.SilkS")
+		(uuid "9bc336f5-9f41-48eb-8056-9704612a26c4")
+		(effects
+			(font
+				(size 1 0.6)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "L101011MS02Q_switch"
+		(at 4.6 2.855 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "cdfff4aa-0387-41fc-839d-0fa20f26b777")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.alldatasheet.com/datasheet-pdf/download/164145/ITT/L101011MS02Q.html"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "16f31c21-2130-4c59-8ee8-dfffa7c2d519")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "C&K L Series Miniature Slide Switches , SPST Through Hole , 2 A to 4 A , 125 VAC to 250 VAC  , -30C ~ 65C"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "61aece44-bd15-484b-a639-c9d7e2cecd77")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Height" "14.18"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "504eed02-81da-46e0-be28-35781a59d308")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "611-L101011MS02Q"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f4cb8708-8a91-4080-9ff4-bd3f820b5b64")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/CK/L101011MS02Q?qs=LgMIjt8LuD9j8DCrk%2FIjYQ%3D%3D"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "86accad7-7541-4779-9f97-6464b849ebf9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "LITTELFUSE"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8adc7cbb-2c87-45d5-b82b-641e37248b46")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "L101011MS02Q"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3a6093b7-c9d3-491f-8e11-77b74bce3df8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start 0 -3.1)
+		(end 0 -3.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "40088fe5-89cd-4b51-b37a-66d6d800a7bb")
+	)
+	(fp_line
+		(start 0 -3)
+		(end 0 -3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c5066c54-3136-4e14-8282-e4e40116eba0")
+	)
+	(fp_arc
+		(start 0 -3.1)
+		(mid 0.05 -3.05)
+		(end 0 -3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "c4093b76-1f97-479f-a8f7-6c6db5f220ba")
+	)
+	(fp_arc
+		(start 0 -3)
+		(mid -0.05 -3.05)
+		(end 0 -3.1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "00f80141-8bed-40a2-81f9-19a2445115ae")
+	)
+	(fp_line
+		(start -6.05 -3.54)
+		(end -6.05 9.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b1021088-91be-4a03-b045-95440f4ebf8e")
+	)
+	(fp_line
+		(start -6.05 9.25)
+		(end 15.25 9.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "5bf7b876-d102-4c32-b0df-54a339412dff")
+	)
+	(fp_line
+		(start 15.25 -3.54)
+		(end -6.05 -3.54)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "3a0c6f92-52bf-4abd-b908-b0a797f56d62")
+	)
+	(fp_line
+		(start 15.25 9.25)
+		(end 15.25 -3.54)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "88149c03-462e-4552-baab-2a63e72bfc75")
+	)
+	(fp_line
+		(start -5.05 -2.54)
+		(end -5.05 8.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "360fe85f-818f-4fd9-96ee-13fb5bfca9cd")
+	)
+	(fp_line
+		(start -5.05 8.25)
+		(end 14.25 8.25)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "5bd6c10c-fc1c-4bc3-9cc8-03e1e92e38e9")
+	)
+	(fp_line
+		(start 14.25 -2.54)
+		(end -5.05 -2.54)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "64e37716-a40c-4c5d-8dcd-b46493cc93f5")
+	)
+	(fp_line
+		(start 14.25 8.25)
+		(end 14.25 -2.54)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "82a3d915-04b6-457a-83d8-a5b3cc8e232c")
+	)
+	(pad "1" thru_hole rect
+		(at 0 0)
+		(size 2.475 2.475)
+		(drill 1.65)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "5a57cfd7-95b0-4e9c-aca5-fcc280d2c4e2")
+	)
+	(pad "2" thru_hole circle
+		(at 4.6 0)
+		(size 2.475 2.475)
+		(drill 1.65)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "87aa6a72-041b-4e2a-8867-97bf74a542b5")
+	)
+	(embedded_fonts no)
+	(model "L101011MS02Q.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+	(model "${KIPRJMOD}/myProject_models/L101011MS02Q_pswitch.step"
+		(offset
+			(xyz 4.5 -3 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 -0 -0)
+		)
+	)
+)

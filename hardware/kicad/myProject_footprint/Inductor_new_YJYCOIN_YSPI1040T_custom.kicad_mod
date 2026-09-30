@@ -1,0 +1,184 @@
+(footprint "Inductor_new_YJYCOIN_YSPI1040T_custom"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "YJYCOIN YSPI1040T molded SMD power inductor, 11.0 x 10.0 x 3.8 mm body; recommended land pattern from datasheet: overall span G=13.6 mm, land height F=4.1 mm, inner gap H=5.4 mm. Suitable for YSPI1040T-680M, 68 uH. JLCPCB/LCSC: C49140886.")
+	(tags "inductor power molded YSPI1040T 68uH C49140886")
+	(property "Reference" "L1"
+		(at -8.1 0.65 180)
+		(layer "F.SilkS")
+		(uuid "f1a3cfb7-d2e9-41fe-8c00-c7ed86887268")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "744770168"
+		(at 0 6.2 180)
+		(layer "F.Fab")
+		(uuid "c9ee037a-b6a1-4682-bce5-cf6355e2ac22")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.we-online.com/catalog/datasheet/744770168.pdf"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e21b5829-1271-4f00-a47c-796528febc23")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "WE-PD SMT Shielded Power Inductor Size 1280; L = 68 H +/-20%; IR = 2,5 A; Isat = 2,7 A; RDC = 90 m"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fb4151c6-9ed3-43a1-8a5c-f82dde652a6d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Height" "4.5"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8e16410b-cac8-430e-be6f-048248064b2b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "710-744770168"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2e35e246-ec23-4177-bef6-4d6d1dda4404")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/744770168?qs=E%2F%2FhvbtCqpPwpKkBv2vMpA%3D%3D"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f4a8ba06-8d44-4d1c-836d-84719981ad3f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "Wurth Elektronik"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8073b387-59a2-41c7-87fe-5d44bfcd1acb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "744770168"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a0337c78-f31e-464a-931f-caf4570c9a75")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_rect
+		(start -7.05 -5.4)
+		(end 7.05 5.4)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "58e83df6-acbe-4440-a2ea-9758553c1529")
+	)
+	(fp_line
+		(start -5.5 -5)
+		(end 5.5 -5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "cd0f8d54-0c24-4b67-9145-cee457cb2e7c")
+	)
+	(fp_line
+		(start -5.5 5)
+		(end -5.5 -5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "1d348c48-16fc-44ad-bcdf-5e5685505692")
+	)
+	(fp_line
+		(start 5.5 -5)
+		(end 5.5 5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "b7570333-2f20-4b1b-8797-316e09250ec4")
+	)
+	(fp_line
+		(start 5.5 5)
+		(end -5.5 5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "b6df0f67-5124-43a4-bc65-0c8208bd6f05")
+	)
+	(pad "1" smd rect
+		(at -4.75 0)
+		(size 4.1 4.1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "962c4d59-21db-4e04-bf3a-deb489c94b02")
+	)
+	(pad "2" smd rect
+		(at 4.75 0)
+		(size 4.1 4.1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "2425586e-dc89-4cb7-920c-d7f287851458")
+	)
+	(embedded_fonts no)
+)

@@ -1,0 +1,346 @@
+(footprint "FUSE_4525holder"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "FH1"
+		(at -11.06 -6.415 180)
+		(layer "F.SilkS")
+		(uuid "0f63669d-99a5-491c-b960-e288870972c5")
+		(effects
+			(font
+				(size 1 0.6)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Holder(FH1):KeyStone 4525   Installed fuse: Littelfuse 215.001, T1A 250VAC, 5x20mm"
+		(at 9.15 7.6 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9b4f4eba-a255-47d6-82dc-eb42940407a0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2a6cd286-16e9-446d-b905-97613aab7724")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "97e786f3-bb8d-4328-b6e2-f103704e3b2d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MF" "Keystone"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "cd07a620-0075-4613-9966-2359b5144b3a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MAXIMUM_PACKAGE_HEIGHT" "10.6mm"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bcbf5e40-179c-4459-8284-636a14b4a3b3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Package" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9d18e5c8-634a-45b1-9c33-720fc2bed695")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Price" "None"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "3e19d92b-5155-4ded-b090-2ccfa0ba90ca")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Check_prices" "https://www.snapeda.com/parts/4525/Keystone/view-part/?ref=eda"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9b834f41-c9f5-4923-ab6e-6135ceae60a5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "STANDARD" "Manufacturer Recommendation"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "76109fae-5797-4551-8de5-1d748bef415e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "PARTREV" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a48a4f4c-8251-4e4e-90eb-a93887c4afdc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SnapEDA_Link" "https://www.snapeda.com/parts/4525/Keystone/view-part/?ref=snap"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b67fba37-13ee-4916-b4e2-972ffc888653")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MP" "4525"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1a869e9d-7c13-4269-9e57-effc4d0562d8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=594597&manufacturer=Keystone&part_name=4525&search_term=schurter 0031.3551"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b0148540-724c-44c4-a022-76fe2c11228b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description_1" "Fuse Holder; 5mm; Fully Insulated | Keystone Electronics 4525"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9e3acd44-cb2f-492c-a123-dd19d93a562e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MANUFACTURER" "Keystone"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b11d1429-02d1-4985-93ae-5eba64ddbcec")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Availability" "In Stock"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a4e74a5e-28ba-47b5-908b-213784dd501b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "SNAPEDA_PN" "4525"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4f0acf33-f47b-4a99-af91-b7b1e8102405")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -14.75 -5.5)
+		(end 14.75 -5.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "121ce463-e2b6-4ad1-b4e9-93a48dfdfc34")
+	)
+	(fp_line
+		(start -14.75 5.5)
+		(end -14.75 -5.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "6321a740-6cfd-4f06-ad43-455208e6614c")
+	)
+	(fp_line
+		(start 14.75 -5.5)
+		(end 14.75 5.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "4b420b56-40eb-4809-bd2b-5b1bc1dd88e9")
+	)
+	(fp_line
+		(start 14.75 5.5)
+		(end -14.75 5.5)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "fbd7a0cb-ca1e-4fe4-ba5d-efe7b03ffa34")
+	)
+	(fp_line
+		(start -14.5 -5.25)
+		(end 14.5 -5.25)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "fcafd312-fead-405f-b282-969d772e6c97")
+	)
+	(fp_line
+		(start -14.5 5.25)
+		(end -14.5 -5.25)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "21912455-ec99-4474-aa19-acd739b60709")
+	)
+	(fp_line
+		(start 14.5 -5.25)
+		(end 14.5 5.25)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8e87b889-54bd-4e44-a044-8b905dd3ca36")
+	)
+	(fp_line
+		(start 14.5 5.25)
+		(end -14.5 5.25)
+		(stroke
+			(width 0.127)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "31c02fb1-cbe8-4f46-b717-d082a9c51f2c")
+	)
+	(pad "1" thru_hole circle
+		(at -0.25 0)
+		(size 1.95 1.95)
+		(drill 1.3)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "5c26f420-eeff-4858-8dfe-1e8f08a5ebd6")
+	)
+	(pad "2" thru_hole circle
+		(at 12.25 0)
+		(size 1.95 1.95)
+		(drill 1.3)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(solder_mask_margin 0.102)
+		(uuid "d40765e0-633c-43c4-8436-04ef8821a112")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/myProject_models/4525holder.step"
+		(offset
+			(xyz -9 -1.5 6)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -90)
+		)
+	)
+)
