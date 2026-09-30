@@ -78,6 +78,31 @@ The project was validated using low-voltage sinusoidal input tests for the volta
 
 ![ADC timing verification](docs/images/adc_timing_scope.jpeg)
 
+The original GUI CSV format is preserved. Most captures are stored directly as `.csv`. Four captures exceeded the transfer size used to populate this repository and are therefore stored **losslessly** as gzip-compressed CSV files:
+
+- `validation/current/raw/raw_adc_0.05A.csv.gz`
+- `validation/current/raw/raw_adc_0.2A.csv.gz`
+- `validation/current/raw/raw_adc_0.25A.csv.gz`
+- `validation/voltage/raw/raw_adc_cali_10pp.csv.gz`
+
+They decompress to the original CSV bytes, e.g.:
+
+```bash
+gzip -dk validation/current/raw/raw_adc_0.25A.csv.gz
+```
+
+Known isolated acquisition glitches are preserved in the source captures. Analysis excludes isolated invalid codes such as exact `24576` and `49152` samples where they represent acquisition artefacts rather than real measurements. See [`validation/README.md`](validation/README.md).
+
+## Hardware and manufacturing
+
+Editable KiCad sources, the full custom footprint/symbol libraries, repository-relative 3D models, Gerbers, drill files, BOM and component-placement outputs are under [`hardware/`](hardware/).
+
+The board source can be opened from:
+
+```text
+hardware/kicad/myProject.kicad_pro
+```
+
 ## Repository layout
 
 ```text
@@ -86,15 +111,22 @@ The project was validated using low-voltage sinusoidal input tests for the volta
 ├── .gitignore
 ├── CITATION.cff
 ├── fpga/
-│   ├── src/
-│   ├── sim/
-│   ├── legacy/
+│   ├── src/             # final active VHDL
+│   ├── sim/             # simulation/testbench sources
+│   ├── legacy/          # earlier auto-disabled modules
 │   ├── constraints/
 │   └── scripts/
-├── gui/
+├── gui/                 # Python GUI and UART parser
 ├── hardware/
+│   ├── kicad/
+│   └── manufacturing/
 ├── validation/
+│   ├── current/
+│   ├── voltage/
+│   └── analysis/
 └── docs/
+    ├── images/
+    └── academic/
 ```
 
 ## Rebuilding the FPGA project
@@ -107,7 +139,13 @@ From Vivado Tcl:
 source fpga/scripts/create_project.tcl
 ```
 
-The original project was developed with Vivado 2026.1.
+The original project was developed with Vivado 2026.1. Re-run synthesis, implementation and timing checks in your installed Vivado release before programming hardware.
+
+## Academic material
+
+The project-defence presentation is included under `docs/academic/`.
+
+The final dissertation itself is not duplicated in this Git repository; the repository is intended to expose the engineering implementation, design files, evidence and reproducible validation assets rather than act as a dissertation archive.
 
 ## Scope and limitations
 
